@@ -1,3 +1,5 @@
 #ALX task repo
 
-##pwd
+##0-current_working_directory : diplays the current directory.
+
+##1-listit : diplays content of current directory.
