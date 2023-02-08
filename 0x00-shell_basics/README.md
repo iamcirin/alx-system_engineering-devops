@@ -11,3 +11,5 @@
 ##4-listmorefiles : Display current directory contents, including hidden files.
 
 ##5-listfilesdigitonly : Display current directory contents, long format with user and group IDs displayed numerically,and hidden file.
+
+##6-firstdirectory :  create a directory named 'my_first_directory' in the /tmp/ directory.
