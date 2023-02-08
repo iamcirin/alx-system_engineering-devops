@@ -3,3 +3,5 @@
 ##0-current_working_directory : diplays the current directory.
 
 ##1-listit : diplays content of current directory.
+
+##2-bring_me_home : changes the working directory to the user’s home directory
